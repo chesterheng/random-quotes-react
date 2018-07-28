@@ -1,0 +1,21 @@
+h1, #author {
+    color: #495B73;
+}
+
+h1,
+blockquote {
+    padding: 15px;
+}
+
+#text {
+    color: #8C203D;
+}
+
+#tweet-quote, #new-quote {
+    margin: 5px;
+}
+
+.copyright {
+    color: #495B73;
+    padding: 15px;
+}
